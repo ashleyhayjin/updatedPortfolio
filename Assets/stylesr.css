@@ -1,0 +1,24 @@
+
+body {
+    background-color: rgb(238, 231, 199);
+} 
+
+.container-overall{
+    padding-top: 10%;
+    border: 0;
+}
+ nav {
+    padding: 20px;
+    text-align: center; 
+}
+a {
+    font-size: 15px;
+    color:  rgb(185, 167, 133);
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    padding-left: 325px;
+    padding-right: 250px;
+}
