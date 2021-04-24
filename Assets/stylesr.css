@@ -3,6 +3,9 @@ body {
     background-color: rgb(238, 231, 199);
 } 
 
+#resume-file {
+    margin-left: 350px;
+}
 .container-overall{
     padding-top: 10%;
     border: 0;
